@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functionTesting.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orimarselasirg/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orimarselasirg/testing/issues"
+  },
+  "homepage": "https://github.com/orimarselasirg/testing#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
